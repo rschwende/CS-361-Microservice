@@ -1,4 +1,4 @@
-// worker.js
+// server.js
 var zmq = require("zeromq"),
   sock = zmq.socket("rep");
 
@@ -31,12 +31,4 @@ sock.on("message", function(request) {
 
   }
 
-
-
-
-
-
-
-
-  
 });
