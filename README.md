@@ -39,6 +39,8 @@ Responses will be in the json format:
 
         var jsonResponse = JSON.parse(stringResponse);
 
+
+
 Server.js reporting errors:
 
     Errors will be reported in the following json format: 
@@ -56,11 +58,11 @@ UML Sequence: see README_UML.png
 
     client -> server : client binds with server
 
-    send/receive sequence repeats as many times as the user request inforamtion until they stop or the connection is broken
     user -> client : user indicates they want information
     client -> server : client makes request
     server <-- client : server responds to client
     user <-- client : client displays information to user
 
-![alt text](https://github.com/schwendr/CS-361-Microservice/blob/main/README_UML.png)
+
+![alt text](https://github.com/rschwende/CS-361-Microservice/blob/main/README_UML.png)
 
