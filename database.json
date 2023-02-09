@@ -1,0 +1,32 @@
+{
+    "havanese" : {
+        "size" : "small",
+        "life_span" : "average",
+        "health_info" : "The Havanese is a Toy dog who is suitable as a companion or family dog. He will adapt to most home environments, including a town flat. He is typically a lively, affectionate and intelligent breed. Like all dogs the Havanese will need regular exercise. He has a long, soft and slightly wavy coat which ideally should be groomed every day to keep it clean and tangle free. Trimming his coat, especially around his face is needed."
+    },
+
+    "saint_bernard" : {
+        "size" : "large",
+        "life_span" : "short",
+        "health_info" : "The Saint Bernard is a very large and heavy dog, related to Swiss mountain rescue dogs. His coat is dense and thick and will need daily grooming. Although reputedly very strong the Saint Bernard no longer works. His size alone means that he does not make an ideal family pet (although breed enthusiasts dispute this). He needs training as a puppy and adequate socialisation with people and other dogs. As a puppy special care needs to be taken over his diet and exercise to protect his fast growing bones. The average life span of a Saint Bernard is only 8 years."
+    },
+
+    "border_terrier" : {
+        "size" : "small",
+        "life_span" : "average",
+        "health_info" : "The Border Terrier is becoming a very popular pet dog because of his small size and usually cheerful disposition. Apparently his working origins are to go to ground after a fox. He is tenacious, has a lot of energy and needs to be active. His good nature makes him a natural choice as a family pet. His short coat is coarse and wiry and sheds. He needs regular and frequent grooming. Although small in stature the Border Terrier needs plenty of exercise with opportunities to run freely. Average lifespan 12.7 years."
+    },
+
+    "irish_wolfhound" : {
+        "size" : "large",
+        "life_span" : "very_short",
+        "health info" : "The Irish Wolfhound is the tallest of all the dog breeds, built for stamina and endurance. He has a rough, harsh coat which needs grooming often. He needs to live in a large house with a large garden, preferably near to open countryside. He needs plenty of exercise every day and the opportunity to run free. A good diet is essential to keep him strong and fit. He is usually a gentle dog, despite his size, but not a breed to be taken on lightly. Average lifespan 6.5 years."
+    },
+
+    "lhasa_apso" : {
+        "size" : "small",
+        "life_span" : "average",
+        "health_info" : "The Lhasa Apso is a small and ancient companion dog. The Lhasa's temperament varies and he can be surprisingly noisy for his size. Like all dogs he needs regular exercise. His long and profuse coat needs frequent grooming and occasional trimming as well."
+    }
+
+}
