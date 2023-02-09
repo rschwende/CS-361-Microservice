@@ -51,7 +51,7 @@ Server.js reporting errors:
 
 UML Sequence: follow link below
 
-![alt text](https://github.com/rschwende/CS-361-Microservice/blob/main/README_UML.png)
+![alt text](https://github.com/rschwende/CS-361-Microservice/blob/main/README_UML_DIAGRAM.png)
 
     client starts on port 3000
     server starts on port 3000
